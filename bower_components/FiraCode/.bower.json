@@ -1,11 +1,15 @@
 {
   "name": "FiraCode",
-  "_cacheHeaders": {
-    "Content-Type": "text/html; charset=utf-8"
+  "homepage": "https://github.com/tonsky/FiraCode",
+  "version": "0.2.1",
+  "_release": "0.2.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.2.1",
+    "commit": "8c866be2bd99e6d03196f5f9effd61d33d1c5c9c"
   },
-  "main": "index",
-  "_source": "https://github.com/tonsky/FiraCode",
-  "_target": "*",
-  "_originalSource": "https://github.com/tonsky/FiraCode",
+  "_source": "https://github.com/tonsky/FiraCode.git",
+  "_target": "^0.2.1",
+  "_originalSource": "https://github.com/tonsky/FiraCode.git",
   "_direct": true
 }

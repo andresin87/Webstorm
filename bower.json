@@ -18,6 +18,6 @@
     "tests"
   ],
   "dependencies": {
-    "FiraCode": "https://github.com/tonsky/FiraCode"
+    "FiraCode": "https://github.com/tonsky/FiraCode.git#^0.2.1"
   }
 }
