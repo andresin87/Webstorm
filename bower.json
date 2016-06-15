@@ -1,0 +1,23 @@
+{
+  "name": "Webstorm settings",
+  "homepage": "https://github.com/andresin87/Webstorm",
+  "description": "Webstorm config settings",
+  "main": "",
+  "keywords": [
+    "webstorm"
+  ],
+  "authors": [
+    "@andresin87"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "FiraCode": "https://github.com/tonsky/FiraCode"
+  }
+}
