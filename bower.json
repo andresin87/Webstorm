@@ -18,6 +18,7 @@
     "tests"
   ],
   "dependencies": {
-    "FiraCode": "https://github.com/tonsky/FiraCode.git#^0.2.1"
+    "FiraCode": "https://github.com/tonsky/FiraCode.git#^0.2.1",
+    "javascript": "https://github.com/airbnb/javascript.git"
   }
 }

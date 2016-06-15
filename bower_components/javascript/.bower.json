@@ -1,0 +1,14 @@
+{
+  "name": "javascript",
+  "homepage": "https://github.com/airbnb/javascript",
+  "_release": "defa17e872",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "defa17e872bb25ae7a79d8eb911e75d9d841f550"
+  },
+  "_source": "https://github.com/airbnb/javascript.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/airbnb/javascript.git",
+  "_direct": true
+}
